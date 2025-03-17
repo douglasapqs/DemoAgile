@@ -1,2 +1,2 @@
 print('Hello, world!')
-git init
+print('Ola')
